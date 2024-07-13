@@ -2,7 +2,7 @@
 - 👀 I’m interested in fields like Web Development, Android Developement & Cybersecurity.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on GitHub and LinkedIn 
-- 📫 How to reach me : you can simple send me collaboration request in GitHub and Connection request in https://www.linkedin.com/in/gauravmishra01
+- 📫 How to reach me : you can simply send me collaboration request in GitHub and Connection request in https://www.linkedin.com/in/gauravmishra01
 -  You can also contact me by sending email at Gauravmishra.geek@gmail.com
 - 😄 Pronouns: Him
 <!---
